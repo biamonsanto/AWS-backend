@@ -33,7 +33,7 @@ A tabela `Personagens` contém os seguintes campos, cada um com seu respectivo t
 - `SamplePage.php`: Página principal que contém o formulário para cadastro de personagens e a listagem dos personagens já cadastrados. Arquivo com funções PHP para adicionar registros, verificar e criar tabelas. Página web para criação e listagem de registros da segunda tabela criada.
 - `dbinfo.inc`: Arquivo incluído que contém as informações de conexão ao banco de dados (não incluído por motivos de segurança).
 - `README.md`: Arquivo de documentação do projeto.
-- `video_tutorial.mp4`: Vídeo demonstrativo da aplicação em execução na AWS e explicação sobre o deploy (incluir URL do vídeo).
+- `/poderada-semana-3.mp4`: Vídeo demonstrativo da aplicação em execução na AWS e explicação sobre o deploy.
 
 ## Tecnologias Utilizadas
 
