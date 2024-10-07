@@ -45,7 +45,7 @@ A tabela `Personagens` contém os seguintes campos, cada um com seu respectivo t
 
 ## Deploy na AWS
 
-O deploy da aplicação foi realizado na AWS, utilizando EC2 para hospedar o servidor web e RDS para gerenciar o banco de dados MySQL. O vídeo demonstrativo disponível no repositório (ou a URL fornecida) mostra o passo a passo do deploy e a configuração dos serviços na AWS.
+O deploy da aplicação foi realizado na AWS, utilizando EC2 para hospedar o servidor web e RDS para gerenciar o banco de dados MySQL. O vídeo demonstrativo disponível no repositório  mostra o passo a passo do deploy e a configuração dos serviços na AWS.
 
 ### Passos para o Deploy:
 
